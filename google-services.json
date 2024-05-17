@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383852794613",
+    "project_id": "moviles-3ac12",
+    "storage_bucket": "moviles-3ac12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383852794613:android:a3538b949821ad7f5b6bbc",
+        "android_client_info": {
+          "package_name": "prub1.caro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383852794613-pbsqbg5rno4dc99ndb7604josqus4hi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD833d53XLeQqYXgNo7CKRehsjk4y1MZs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383852794613-pbsqbg5rno4dc99ndb7604josqus4hi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
